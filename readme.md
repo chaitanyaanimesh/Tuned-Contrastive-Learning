@@ -30,3 +30,16 @@ After creating a virtual environment with your software of choice just run
 ```
 pip install -r requirements.txt
 ```
+
+### Reference
+```
+@misc{animesh2023tunedcontrastivelearning,
+      title={Tuned Contrastive Learning}, 
+      author={Chaitanya Animesh and Manmohan Chandraker},
+      year={2023},
+      eprint={2305.10675},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2305.10675}, 
+}
+```
