@@ -2,7 +2,7 @@
 
 [![AP](https://img.shields.io/badge/arXiv-Preprint-blue)](https://arxiv.org/abs/2305.10675)
 
-This repository implements our work on [Tuned Contrastive Learning](https://arxiv.org/abs/2305.10675).
+This repository is the Official code for our WACV 2025 paper: [Tuned Contrastive Learning](https://arxiv.org/abs/2305.10675).
 
 [//]: # (![intro]&#40;assets/supcon.png&#41;)
 <p float="left">
@@ -31,7 +31,8 @@ After creating a virtual environment with your software of choice just run
 pip install -r requirements.txt
 ```
 
-### Reference
+### Citation
+If you find this code useful, please consider citing:
 ```
 @misc{animesh2023tunedcontrastivelearning,
       title={Tuned Contrastive Learning}, 
