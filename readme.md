@@ -6,7 +6,7 @@ This repository is the Official code for our WACV 2025 paper: [Tuned Contrastive
 
 [//]: # (![intro]&#40;assets/supcon.png&#41;)
 <p float="left">
-  <img src="assets/supcon.png" width="25%" alt="Image 1"/>
+  <img src="assets/supcon.png" width="25%" alt="Image 1" style="margin-right: 100px;"/>
   <img src="assets/tcl.png" width="25%" alt="Image 2"/> 
 </p>
 
