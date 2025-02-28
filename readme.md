@@ -2,7 +2,7 @@
 
 [![AP](https://img.shields.io/badge/arXiv-Preprint-blue)](https://arxiv.org/abs/2305.10675)
 
-This repository is the Official code for our WACV 2025 paper: [Tuned Contrastive Learning]([https://arxiv.org/abs/2305.10675](https://openaccess.thecvf.com/content/WACV2025/html/Animesh_Tuned_Contrastive_Learning_WACV_2025_paper.html)).
+This repository is the Official code for our WACV 2025 paper: [Tuned Contrastive Learning]([https://openaccess.thecvf.com/content/WACV2025/html/Animesh_Tuned_Contrastive_Learning_WACV_2025_paper.html]).
 
 [//]: # (![intro]&#40;assets/supcon.png&#41;)
 <p float="left">
